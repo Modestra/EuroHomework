@@ -1,0 +1,9 @@
+.color__form{
+    margin: 10px;
+    display: grid;
+    grid-template-columns: 0.2fr 0.8fr;
+    height: 50px;
+}
+.color__form p{
+    font-size: 14px;
+}
